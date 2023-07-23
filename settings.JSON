@@ -1,7 +1,7 @@
 VS Code JSON Settings
 
 /*Settings.json*/
-	{
+{
 	    "workbench.iconTheme": "vscode-icons",
 	    "workbench.colorTheme": "SynthWave '84",
 	    "editor.cursorSmoothCaretAnimation": "on",
@@ -9,5 +9,7 @@ VS Code JSON Settings
 	    "editor.fontFamily": "Anonymous Pro Bold",
 	    "editor.fontLigatures": true,
 	    "terminal.integrated.fontFamily": "monospace",
-	    "editor.linkedEditing": true,
-	}
+		"editor.linkedEditing": true,
+		"git.autofetch": true,
+		"git.confirmForcePush": false,
+}
