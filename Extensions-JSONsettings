@@ -1,0 +1,24 @@
+VS Code Extensions and Settings
+
+/*Extensions*/
+	Auto Close Tag
+	Code Runner
+	ESLint
+	AutoFontSize Shortcuts
+	Live Preivew
+	Live Server
+	Prettier
+	SynthWave84
+	vscode-icons
+
+/*Settings.json*/
+	{
+	    "workbench.iconTheme": "vscode-icons",
+	    "workbench.colorTheme": "SynthWave '84",
+	    "editor.cursorSmoothCaretAnimation": "on",
+	    "editor.smoothScrolling": true,
+	    "editor.fontFamily": "Anonymous Pro Bold",
+	    "editor.fontLigatures": true,
+	    "terminal.integrated.fontFamily": "monospace",
+	    "editor.linkedEditing": true,
+	}
