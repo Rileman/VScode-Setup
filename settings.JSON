@@ -12,4 +12,7 @@ VS Code JSON Settings
 		"editor.linkedEditing": true,
 		"git.autofetch": true,
 		"git.confirmForcePush": false,
+		"editor.lineHeight": 0,
+		"editor.fontSize": 12,
+		"git.requireGitUserConfig": false,
 }
